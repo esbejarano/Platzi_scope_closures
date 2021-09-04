@@ -1,0 +1,19 @@
+{
+  "name": "platzi_scope_closures",
+  "version": "1.0.0",
+  "description": "Curso de scope y closures en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esbejarano/Platzi_scope_closures.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esbejarano/Platzi_scope_closures/issues"
+  },
+  "homepage": "https://github.com/esbejarano/Platzi_scope_closures#readme"
+}
